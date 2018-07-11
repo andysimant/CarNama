@@ -11,6 +11,7 @@ and open the template in the editor.
         <title><?php echo $title ?> </title>
     </head>
     <body>
+        
         <div id="wrapper">
             <div id="banner">
                 
